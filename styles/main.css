@@ -1,0 +1,39 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-primary {
+  background-color: #d6cf;
+}
+
+.text-primary {
+  color: #d6cf;
+}
+
+.bg-red {
+  background-color: #d80000;
+}
+
+.text-red {
+  color: #d80000;
+}
+
+.bg-blue {
+  background-color: #a0a0ff;
+}
+
+.text-blue {
+  color: #a0a0ff;
+}
+
+.bg-green {
+  background-color: #00ff00;
+}
+
+.text-green {
+  color: #00ff00;
+}
+/*# sourceMappingURL=main.css.map */
